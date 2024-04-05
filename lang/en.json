@@ -1,0 +1,28 @@
+{
+    "dm.not.allowed": "{lime}[DM] {darkred}Direct Message Only For Vips",
+    "dm.missing.name": "{lime}[DM] {grey}Please Enter Playername '!dm {darkred}<playername> {grey}<message>'",
+    "dm.missing.message": "{lime}[DM] {grey}Please Enter Message After Name '!dm <playername> {darkred}<message>{grey}'",
+    "dm.cannot.find.playername": "{lime}[DM] {grey}Can't Find Player With Name {purple}{0}",
+    "dm.message.format": "{lime}[DM] {grey}({purple}{0} {grey}-> {purple}{1}{grey}){white}: {grey}{2}",
+
+    "pr.menu.name": "{purple}Private Message Room Menu",
+    "pr.menu.exit": "{darkred}Exit",
+    "pr.not.allowed": "{lime}[PM Room] {darkred}Private Room Only For Vips",
+    "pr.created": "{red}----------------------------------------{Nextline}{lime}[PM Room] {grey}Private Room Has {Green}Created{Nextline}{lime}[PM Room] {grey}You Can Invite People By {Yellow}!inv {grey}Or {Yellow}!invite{Nextline}{lime}[PM Room] {grey}You Leave Private Room By {Yellow}!leave {grey}Or {Yellow}!quit{Nextline}{red}----------------------------------------",
+    "pr.notcreated": "{lime}[PM Room] {darkred}No Room Has Created {grey}You Need To Create First {Nextline}{lime}[PM Room] {Yellow}!makeprivateroom {grey}Or {Yellow}!mpr",
+    "pr.already.in.private.room": "{lime}[PM Room] {grey}You Cant Invite {purple}{0} {grey}He Is In Private Room Now",
+    "pr.invited.in.your.room": "{lime}[PM Room] {grey}You Cant Invite {purple}{0} {grey}He Is In Your Room",
+    "pr.invited.already": "{lime}[PM Room] {grey}You Cant Invite {purple}{0} {grey}He Has Invite You Need To Wait",
+    "pr.annouce.invite": "{lime}[PM Room] {purple}{0} {grey}Invited {purple}{1} {grey}To The Room",
+    "pr.invited": "{lime}[PM Room] {grey}You Have Invite From {purple}{0} {grey}To Accept Type {Yellow}!join",
+    "pr.invited.expired": "{lime}[PM Room] {grey}Your Invite {darkred}Expired",
+    "pr.joined": "{lime}[PM Room] {purple}{0} {green}Joined {grey}The Private Room",
+    "pr.joined.info": "{red}----------------------------------------{Nextline}{lime}[PM Room] {grey}You Can Invite People By {Yellow}!inv {grey}Or {Yellow}!invite{Nextline}{lime}[PM Room] {grey}You Leave Private Room By {Yellow}!leave {grey}Or {Yellow}!quit{Nextline}{red}----------------------------------------",
+    "pr.left": "{lime}[PM Room] {purple}{0} {darkred}Left {grey}The Private Room",
+    "pr.listplayers.info": "{lime}[PM Room] {grey}Players In The Room",
+    "pr.listplayers": "{lime}● {purple}{0}",
+    "pr.message.format": "{lime}[PM Room] {purple}{0}: {grey}{1}",
+
+    "spy.ingame.dm.message.format": "{lime}[SPY DM] {grey}({purple}{0} {grey}-> {purple}{1}{grey}){white}: {grey}{2}",
+    "spy.ingame.pr.message.format": "{lime}[SPY PM Room] {purple}{0}: {grey}{1}"
+}
