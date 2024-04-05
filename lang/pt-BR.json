@@ -1,0 +1,23 @@
+{
+  "dm.not.allowed": "{lime}[DM] {darkred}Mensagem Direta Apenas para Vips",
+  "dm.missing.name": "{lime}[DM] {grey}Por favor, insira o nome do jogador '!dm {darkred}<nome_do_jogador> {grey}<mensagem>'",
+  "dm.missing.message": "{lime}[DM] {grey}Por favor, insira a mensagem após o nome '!dm <nome_do_jogador> {darkred}<mensagem>{grey}'",
+  "dm.cannot.find.playername": "{lime}[DM] {grey}Não foi possível encontrar jogador com o nome {purple}{0}",
+  "dm.message.format": "{lime}[DM] {grey}({purple}{0} {grey}-> {purple}{1}{grey}){white}: {grey}{2}",
+
+  "pr.not.allowed": "{lime}[Sala de Mensagem Privada] {darkred}Sala Privada Apenas para Vips",
+  "pr.created": "{red}----------------------------------------{Nextline}{lime}[Sala de Mensagem Privada] {grey}Sala Privada foi {Green}Criada{Nextline}{lime}[Sala de Mensagem Privada] {grey}Você pode convidar pessoas usando {Yellow}!inv {grey}Ou {Yellow}!invite{Nextline}{lime}[Sala de Mensagem Privada] {grey}Você pode sair da Sala Privada usando {Yellow}!leave {grey}Ou {Yellow}!quit{Nextline}{red}----------------------------------------",
+  "pr.notcreated": "{lime}[Sala de Mensagem Privada] {darkred}Nenhuma Sala Criada {grey}Você precisa criar uma primeiro {Yellow}!makeprivateroom {grey}Ou {Yellow}!mpr",
+  "pr.invited.in.your.room": "{lime}[Sala de Mensagem Privada] {grey}Você não pode convidar {purple}{0} {grey}Ele está na sua sala",
+  "pr.invited.already": "{lime}[Sala de Mensagem Privada] {grey}Você não pode convidar {purple}{0} {grey}Ele já foi convidado, você precisa esperar",
+  "pr.invited": "{lime}[Sala de Mensagem Privada] {grey}Você foi convidado por {purple}{0} {grey}Para aceitar, digite {Yellow}!join",
+  "pr.invited.expired": "{lime}[Sala de Mensagem Privada] {grey}Seu convite {darkred}Expirou",
+  "pr.joined": "{lime}[Sala de Mensagem Privada] {purple}{0} {green}Entrou {grey}na Sala Privada",
+  "pr.joined.info": "{red}----------------------------------------{Nextline}{lime}[Sala de Mensagem Privada] {grey}Você pode convidar pessoas usando {Yellow}!inv {grey}Ou {Yellow}!invite{Nextline}{lime}[Sala de Mensagem Privada] {grey}Você pode sair da Sala Privada usando {Yellow}!leave {grey}Ou {Yellow}!quit{Nextline}{red}----------------------------------------",
+  "pr.left": "{lime}[Sala de Mensagem Privada] {purple}{0} {darkred}Saiu {grey}da Sala Privada",
+  "pr.menu.name": "{purple}Menu da Sala de Mensagem Privada",
+  "pr.menu.exit": "{darkred}Sair",
+  "pr.message.format": "{lime}[Sala de Mensagem Privada] {purple}{0}: {grey}{1}",
+  "spy.ingame.dm.message.format": "{lime}[ESPIONAGEM DM] {grey}({purple}{0} {grey}-> {purple}{1}{grey}){white}: {grey}{2}",
+  "spy.ingame.pr.message.format": "{lime}[ESPIONAGEM SALA PV] {purple}{0}: {grey}{1}"
+}
