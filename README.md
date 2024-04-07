@@ -23,8 +23,7 @@
 > [!WARNING] 
 > If You Using [Cs2-Tags](https://github.com/daffyyyy/CS2-Tags) And You Want To Combine CS2-Tags + cs2-Private-Message-GoldKingZ                                         
 > You Need To Download This Modify Version To Control Behavior Depend Private Room
-> [Click Here](https://github.com/oqyh/cs2-Private-Message-GoldKingZ/files/14898866/CS2-Tags%2Bcs2-Private-Message-GoldKingZ.zip)
-
+> [Click Here](https://github.com/oqyh/cs2-Private-Message-GoldKingZ/files/14898876/CS2-Tags%2Bcs2-Private-Message-GoldKingZ.zip)
 
 
 
