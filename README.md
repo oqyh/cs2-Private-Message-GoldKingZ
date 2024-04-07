@@ -1,4 +1,4 @@
-[CS2-Tags+cs2-Private-Message-GoldKingZ.zip](https://github.com/oqyh/cs2-Private-Message-GoldKingZ/files/14898864/CS2-Tags%2Bcs2-Private-Message-GoldKingZ.zip)# [CS2] Private-Message-GoldKingZ (1.0.0)
+# [CS2] Private-Message-GoldKingZ (1.0.0)
 
 ### Private Room Messages, Direct Messages (Vips,Admins,Spy Messages,Discord Log, Text Log)
 
