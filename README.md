@@ -1,4 +1,4 @@
-# [CS2] Private-Message-GoldKingZ (1.0.0)
+[CS2-Tags+cs2-Private-Message-GoldKingZ.zip](https://github.com/oqyh/cs2-Private-Message-GoldKingZ/files/14898864/CS2-Tags%2Bcs2-Private-Message-GoldKingZ.zip)# [CS2] Private-Message-GoldKingZ (1.0.0)
 
 ### Private Room Messages, Direct Messages (Vips,Admins,Spy Messages,Discord Log, Text Log)
 
@@ -17,6 +17,13 @@
 [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp/releases)
 
 [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json)
+
+
+## .:[ Note ]:.
+> [!WARNING] 
+> If You Using [Cs2-Tags](https://github.com/daffyyyy/CS2-Tags) And You Want To Combine CS2-Tags + cs2-Private-Message-GoldKingZ                                         
+> You Need To Download This Modify Version To Control Behavior Depend Private Room
+> [Click Here](https://github.com/oqyh/cs2-Private-Message-GoldKingZ/files/14898866/CS2-Tags%2Bcs2-Private-Message-GoldKingZ.zip)
 
 
 
